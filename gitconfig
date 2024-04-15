@@ -61,4 +61,4 @@
   defaultBranch = master
 [user]
 	email = contact@benjaminlepoutre.fr
-	name = cd ~/code/$GITHUB_USERNAME/dotfiles && zsh git_setup.sh
+	name = Benjamin Lepoutre
